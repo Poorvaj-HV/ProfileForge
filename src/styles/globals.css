@@ -1,5 +1,5 @@
 @custom-variant dark (&:is(.dark *));
-
+/*customs can be removed*/
 :root {
   --font-size: 16px;
   --background: #ffffff;
